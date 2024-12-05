@@ -2,6 +2,15 @@
 
 A React Native app to fetch weather information for a city or the user's current location.
 
+## Screenshots
+
+![Search City](./screenshots/SearchCity.png)
+![Details Screen](./screenshots/Details.png)
+![Settings Screen](./screenshots/Settings.png)
+![Settings Screen 2](./screenshots/Settings2.png)
+![Location Permission](./screenshots/LocationPermission.png)
+![Use My Location](./screenshots/UseMyLocation.png)
+
 ## Features
 
 - Search weather by city.
